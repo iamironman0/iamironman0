@@ -1,25 +1,73 @@
-# HI THERE 👋:
-🔭 I’m currently working on GUI APPS<br>👯 I’m looking to collaborate on Creating Complex GUI APPS<br>🤝 I’m looking for help with Becoming Master<br>🌱 I’m currently learning Tkinter, Customtkinter (Python GUI Framework)
+<h1 align="center">HI THERE 👋</h1>
 
+###
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamironman0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamironman0&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamironman0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h6 align="center">WELCOME TO MY GITHUB PROFILE PAGE</h6>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamironman0&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamironman0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">PROFILE VIEWS</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=iamironman0&icon=0&color=1)](https://visitcount.itsvg.in)
+###
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iamironman0) 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iamironman0/count.svg?"  />
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h2 align="center">STATE⚡</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamironman0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=I AM IRON MAN" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=iamironman0&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamironman0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">TECH STACK ⚙️</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+</div>
+
+###
+
+<h2 align="center">DONATION💲</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.paypal.com/paypalme/iamironman0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="50" alt="paypal logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif"  />
+</div>
+
+###
