@@ -68,8 +68,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/iamironman0/iamironman0/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/iamironman0/iamironman0/output/snek.svg">
