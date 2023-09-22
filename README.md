@@ -1,7 +1,5 @@
 <h1 align="center">HI THERE</h1>
 
-###
-
 <h3 align="center">WELCOME TO MY GITHUB PROFILE PAGE</h3>
 
 ###
