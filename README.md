@@ -67,5 +67,3 @@
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="50" alt="paypal logo"  />
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/iamironman0/iamironman0/output/snek.svg">
