@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamironman0.iamironman0&left_text=Profile Views"  />
+  <img src="https://komarev.com/ghpvc/?username=iamironman0"  />
 </div>
 
 ###
