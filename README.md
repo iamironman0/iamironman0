@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">DONATION</h2>
+<h2 align="center">SUPPORT</h2>
 
 ###
 
